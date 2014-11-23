@@ -17,10 +17,10 @@
 **/
 
 // Set Variables
-$LOCAL_ROOT         = "/path/to/repo/parent/directory";
-$LOCAL_REPO_NAME    = "REPO_NAME";
+$LOCAL_ROOT         = "~/public_html/projects";
+$LOCAL_REPO_NAME    = "GCSE_Practical_Programming";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
-$REMOTE_REPO        = "git@github.com:username/reponame.git";
+$REMOTE_REPO        = "git@github.com:MarcScott/GCSE_Practical_Programming.git";
 $BRANCH             = "master";
 
 if ( $_POST['payload'] ) {
