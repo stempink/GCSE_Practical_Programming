@@ -16,7 +16,7 @@ ini_set('display_errors', 'On');
   *    (e.g., http://example.com/webhook.php)
   *
 **/
-
+echo ("hello");
 // Set Variables
 $LOCAL_ROOT         = "/home/bournetocode/public_html/projects";
 $LOCAL_REPO_NAME    = "GCSE_Practical_Programming";
