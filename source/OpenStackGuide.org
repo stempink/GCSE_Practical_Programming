@@ -2,12 +2,12 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
-#+TITLE: Emacs Cheat Sheat
+#+TITLE: OpenStack Cheat Sheat
 #+AUTHOR: Marc Scott
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/MarcScott/GCSE-CS">Fork me on GitHub</a>
+<a href="https://github.com/MarcScott/GCSE_Practical_Programming">Fork me on GitHub</a>
 </div>
 #+END_HTML
 * COMMENT Use as a template
