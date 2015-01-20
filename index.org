@@ -26,3 +26,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
+* [[file:pages/CA_Writeup.html][CA Write Up]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
